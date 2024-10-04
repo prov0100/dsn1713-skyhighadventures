@@ -1,0 +1,26 @@
+.logo {
+    width: 100px;
+    padding: .75em;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #0B589C;
+}
+
+.offcanvas {
+    padding-left: .5em;
+}
+
+@media (min-width: 991px) {
+   .button-book-now-mobile {
+    display: none;
+} 
+}
+
+
+
+
+
+
+
