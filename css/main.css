@@ -19,6 +19,10 @@
     padding-left: .5em;
 }
 
+.video-container {
+    min-height: 650px;
+}
+
 @media (min-width: 992px) {
    .button-book-now-mobile {
     display: none;
